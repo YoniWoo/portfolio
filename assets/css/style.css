@@ -429,7 +429,10 @@ section {
   }
 
   .skills h3 {
-    color: #0072CE
+    color: #0072CE;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-weight: bold;
   }
   
   /*--------------------------------------------------------------
