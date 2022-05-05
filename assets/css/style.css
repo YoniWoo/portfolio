@@ -427,6 +427,10 @@ section {
     transition: .9s;
     background-color: #0072CE;
   }
+
+  .skills h3 {
+    color: #0072CE
+  }
   
   /*--------------------------------------------------------------
   # Parcours
