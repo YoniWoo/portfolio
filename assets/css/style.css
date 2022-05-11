@@ -50,8 +50,8 @@ h6 {
 }
 
 .back-to-top:hover {
-    color: #fff;
-    background: #e23b3b;
+    color: #fff !important;
+    background: #0072CE;
     transition: background 0.2s ease-in-out;
 }
 
